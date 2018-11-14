@@ -1,2 +1,2 @@
 # Checker
-I tries to check for plagiarism to prevent piracy  
+It tries to check for plagiarism to prevent piracy  
